@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MenuMakanan"
         tools:targetApi="31">
+        <activity android:name=".DetailMakanan"
+            />
         <activity
             android:name=".MainActivity"
             android:exported="true">
