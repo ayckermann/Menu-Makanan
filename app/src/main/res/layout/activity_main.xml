@@ -31,10 +31,10 @@
         android:layout_height="wrap_content"
 
         android:layout_weight="1"
+        android:gravity="bottom|center_horizontal"
         android:text="Jl. Fukuoka Raya No. 27, Konohagakure"
         android:textAlignment="center"
+        android:textColor="@color/white"
         android:textSize="16sp"
-        android:textStyle="bold"
-        android:gravity="bottom|center_horizontal"
-        />
+        android:textStyle="bold" />
 </LinearLayout>
